@@ -177,4 +177,4 @@ gdm_app_v2/
 ---
 
 **Version**: 2.0.0  
-**Last Updated**: 2024
+**Last Updated**: Dec-2025
